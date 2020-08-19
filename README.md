@@ -1,6 +1,6 @@
 # chat_propios
 
-A new Flutter project.
+App de flutter para Chat Comunitario con multiples personas. 
 
 ## Getting Started
 
